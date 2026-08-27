@@ -1,10 +1,10 @@
 # Technoindo
 
 ## Profil Singkat
-Technoindo adalah tim/brand yang berfokus pada solusi teknologi secara praktis dan sederhana.
+Technoindo adalah tim yang berfokus pada solusi teknologi secara praktis.
 
 ### Fokus Utama
-- Pengembangan aplikasi web
+- Pengembangan aplikasi ERP
 - Integrasi sistem digital
 - Solusi IT untuk kebutuhan bisnis
 
